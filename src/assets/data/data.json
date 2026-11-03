@@ -18540,7 +18540,7 @@
             "time_start": "20:42:00",
             "time_end": "22:05:00"
         },
-          {
+        {
             "id": "fw31",
             "type": "stream",
             "date": "2017-01-23",
@@ -19942,7 +19942,7 @@
                 "casual",
                 "krabbelen",
                 "tekenen",
-                "emoticons"               
+                "emoticons"
             ],
             "time_start": "15:05:00",
             "time_end": "17:35:00"
@@ -21099,7 +21099,7 @@
             "duration": 4200,
             "youtube_id": "wTGOnTFEtfI",
             "titles": [
-              "E3 2017 - Nintendo persconferentie (Durf te dromen)"
+                "E3 2017 - Nintendo persconferentie (Durf te dromen)"
             ],
             "activities": [
                 {
@@ -28587,33 +28587,33 @@
             "time_end": "01:25:00"
         },
         {
-          "id": "4fd0",
-          "type": "stream",
-          "date": "2018-03-21",
-          "description": "Peter en Timon spelen weer eens een tekenwedstrijd in Paint en maken ruzie over wiens tekening meer lijkt.",
-          "collection": [
-            74
-          ],
-          "duration": 8820,
-          "titles": [
-            "PETER vs TIMON TEKENSTREAM (+ Hamster spreekbeurt)"
-          ],
-          "activities": [
-            {
-              "title": "Creative",
-              "duration": 8820
-            }
-          ],
-          "twitchtracker_id": "28018129840",
-          "youtube_id": "PC2LsnIiZhs",
-          "tags": [
-            "main",
-            "peter vs timon",
-            "tekenen",
-            "tekenwedstrijd"
-          ],
-          "time_start": "20:17:00",
-          "time_end": "22:45:00"
+            "id": "4fd0",
+            "type": "stream",
+            "date": "2018-03-21",
+            "description": "Peter en Timon spelen weer eens een tekenwedstrijd in Paint en maken ruzie over wiens tekening meer lijkt.",
+            "collection": [
+                74
+            ],
+            "duration": 8820,
+            "titles": [
+                "PETER vs TIMON TEKENSTREAM (+ Hamster spreekbeurt)"
+            ],
+            "activities": [
+                {
+                    "title": "Creative",
+                    "duration": 8820
+                }
+            ],
+            "twitchtracker_id": "28018129840",
+            "youtube_id": "PC2LsnIiZhs",
+            "tags": [
+                "main",
+                "peter vs timon",
+                "tekenen",
+                "tekenwedstrijd"
+            ],
+            "time_start": "20:17:00",
+            "time_end": "22:45:00"
         },
         {
             "id": "f866",
@@ -30953,34 +30953,34 @@
             "time_end": "17:15:00"
         },
         {
-          "id": "0cc5",
-          "type": "stream",
-          "date": "2018-07-16",
-          "description": "Één van de eerste streams waarin Peter en Timon een tekenwedstrijd doen. Ze maken veel ruzie over wiens tekening beter is en wie er wel of niet gecheat heeft. Uiteindelijk bepaalt de chat wie wint en wie de straf stream van 4 afleveringen Minecraft Story Mode moet spelen.",
-          "collection": [
-            74
-          ],
-          "duration": 8820,
-          "youtube_id": "GD0mf7glhBI",
-          "titles": [
-            "PETER vs TIMON: Tekenwedstrijd"
-          ],
-          "activities": [
-            {
-              "title": "IRL",
-              "duration": 8820
-            }
-          ],
-          "twitchtracker_id": "29504165056",
-          "twitch_id": "285489311",
-          "tags": [
-            "main",
-            "peter vs timon",
-            "tekenen",
-            "tekenwedstrijd"
-          ],
-          "time_start": "20:27:00",
-          "time_end": "22:55:00"
+            "id": "0cc5",
+            "type": "stream",
+            "date": "2018-07-16",
+            "description": "Één van de eerste streams waarin Peter en Timon een tekenwedstrijd doen. Ze maken veel ruzie over wiens tekening beter is en wie er wel of niet gecheat heeft. Uiteindelijk bepaalt de chat wie wint en wie de straf stream van 4 afleveringen Minecraft Story Mode moet spelen.",
+            "collection": [
+                74
+            ],
+            "duration": 8820,
+            "youtube_id": "GD0mf7glhBI",
+            "titles": [
+                "PETER vs TIMON: Tekenwedstrijd"
+            ],
+            "activities": [
+                {
+                    "title": "IRL",
+                    "duration": 8820
+                }
+            ],
+            "twitchtracker_id": "29504165056",
+            "twitch_id": "285489311",
+            "tags": [
+                "main",
+                "peter vs timon",
+                "tekenen",
+                "tekenwedstrijd"
+            ],
+            "time_start": "20:27:00",
+            "time_end": "22:55:00"
         },
         {
             "id": "94e9",
@@ -31156,30 +31156,30 @@
             "time_end": "23:05:00"
         },
         {
-          "id": "0b6d",
-          "type": "stream",
-          "date": "2018-07-26",
-          "duration": 5100,
-          "youtube_id": "SNjInQ8e6Jc",
-          "description": "eerste hoofdstuk harry potter voorlezen stream - besten strea m ooit. timon doet er pijnlijk lang over om 1 (engels) hoofdstuk voor te lezen",
-          "titles": [
-            "Hoofdstuk 1 van Harry Potter voorlezen (strafstream)"
-          ],
-          "activities": [
-            {
-              "title": "IRL",
-              "duration": 5100
-            }
-          ],
-          "twitchtracker_id": "29649319360",
-          "twitch_id": "307100135",
-          "tags": [
-            "casual",
-            "harry potter",
-            "slapen"
-          ],
-          "time_start": "20:19:00",
-          "time_end": "21:45:00"
+            "id": "0b6d",
+            "type": "stream",
+            "date": "2018-07-26",
+            "duration": 5100,
+            "youtube_id": "SNjInQ8e6Jc",
+            "description": "eerste hoofdstuk harry potter voorlezen stream - besten strea m ooit. timon doet er pijnlijk lang over om 1 (engels) hoofdstuk voor te lezen",
+            "titles": [
+                "Hoofdstuk 1 van Harry Potter voorlezen (strafstream)"
+            ],
+            "activities": [
+                {
+                    "title": "IRL",
+                    "duration": 5100
+                }
+            ],
+            "twitchtracker_id": "29649319360",
+            "twitch_id": "307100135",
+            "tags": [
+                "casual",
+                "harry potter",
+                "slapen"
+            ],
+            "time_start": "20:19:00",
+            "time_end": "21:45:00"
         },
         {
             "id": "642a",
@@ -42217,34 +42217,34 @@
             "time_end": "18:15:00"
         },
         {
-          "id": "db96",
-          "type": "stream",
-          "date": "2020-05-18",
-          "description": "Peter en Timon spelen een “Peter vs Timon” tekenwedstrijd waarbij ze fictieve karakters uit hun hoofd natekenen en de kijkers stemmen wiens het mooiste is. Ze klagen verassend weinig ruzie en doen aan het eind een giveaway.",
-          "collection": [
-            74
-          ],
-          "duration": 8400,
-          "youtube_id": "0tdblu3Hh7E",
-          "titles": [
-            "PETER vs TIMON: Tekenen"
-          ],
-          "activities": [
-            {
-              "title": "Art",
-              "duration": 8400
-            }
-          ],
-          "twitchtracker_id": "38138608000",
-          "twitch_id": "625030341",
-          "tags": [
-            "main",
-            "peter vs timon",
-            "tekenen",
-            "giveaway"
-          ],
-          "time_start": "20:14:00",
-          "time_end": "22:35:00"
+            "id": "db96",
+            "type": "stream",
+            "date": "2020-05-18",
+            "description": "Peter en Timon spelen een “Peter vs Timon” tekenwedstrijd waarbij ze fictieve karakters uit hun hoofd natekenen en de kijkers stemmen wiens het mooiste is. Ze klagen verassend weinig ruzie en doen aan het eind een giveaway.",
+            "collection": [
+                74
+            ],
+            "duration": 8400,
+            "youtube_id": "0tdblu3Hh7E",
+            "titles": [
+                "PETER vs TIMON: Tekenen"
+            ],
+            "activities": [
+                {
+                    "title": "Art",
+                    "duration": 8400
+                }
+            ],
+            "twitchtracker_id": "38138608000",
+            "twitch_id": "625030341",
+            "tags": [
+                "main",
+                "peter vs timon",
+                "tekenen",
+                "giveaway"
+            ],
+            "time_start": "20:14:00",
+            "time_end": "22:35:00"
         },
         {
             "id": "1c48",
@@ -42783,31 +42783,31 @@
             "time_end": "18:25:00"
         },
         {
-          "id": "19d8",
-          "type": "stream",
-          "date": "2020-06-29",
-          "description": "Timon is er niet en Peter tekent Pokémon uit zijn geheugen, op zijn nieuwe tekentablet. Hij kliert stiekem wel een beetje maar eigenlijk is het wel lief (LekkerCute)",
-          "duration": 6300,
-          "youtube_id": "NP31878Q2Fg",
-          "titles": [
-            "Pokémon tekenen (uit geheugen)"
-          ],
-          "activities": [
-            {
-              "title": "Art",
-              "duration": 6300
-            }
-          ],
-          "twitchtracker_id": "38989734240",
-          "twitch_id": "692559243",
-          "tags": [
-            "main",
-            "solo",
-            "tekenen",
-            "pokemon"
-          ],
-          "time_start": "20:19:00",
-          "time_end": "22:05:00"
+            "id": "19d8",
+            "type": "stream",
+            "date": "2020-06-29",
+            "description": "Timon is er niet en Peter tekent Pokémon uit zijn geheugen, op zijn nieuwe tekentablet. Hij kliert stiekem wel een beetje maar eigenlijk is het wel lief (LekkerCute)",
+            "duration": 6300,
+            "youtube_id": "NP31878Q2Fg",
+            "titles": [
+                "Pokémon tekenen (uit geheugen)"
+            ],
+            "activities": [
+                {
+                    "title": "Art",
+                    "duration": 6300
+                }
+            ],
+            "twitchtracker_id": "38989734240",
+            "twitch_id": "692559243",
+            "tags": [
+                "main",
+                "solo",
+                "tekenen",
+                "pokemon"
+            ],
+            "time_start": "20:19:00",
+            "time_end": "22:05:00"
         },
         {
             "id": "2788",
@@ -42937,32 +42937,32 @@
             "time_end": "21:55:00"
         },
         {
-          "id": "06a0",
-          "type": "stream",
-          "date": "2020-07-13",
-          "duration": 7980,
-          "description": "Peter en Timon tekenen uit de losse pols een Charizard-geïnspireerd design voor een nieuwe merch T-shirt. Dit groeit uit tot het befaamde “Charichard” shirt, wat ze tijdens de stream live op hun merch store zetten.",
-          "youtube_id": "M-gMvQWPVA8",
-          "titles": [
-            "Shirt design tekenen (exclusive)"
-          ],
-          "activities": [
-            {
-              "title": "Art",
-              "duration": 7980
-            }
-          ],
-          "twitchtracker_id": "2180501473",
-          "twitch_id": "692576772",
-          "tags": [
-            "main",
-            "tekenen",
-            "merch",
-            "pokemon",
-            "t-shirt"
-          ],
-          "time_start": "20:31:00",
-          "time_end": "22:45:00"
+            "id": "06a0",
+            "type": "stream",
+            "date": "2020-07-13",
+            "duration": 7980,
+            "description": "Peter en Timon tekenen uit de losse pols een Charizard-geïnspireerd design voor een nieuwe merch T-shirt. Dit groeit uit tot het befaamde “Charichard” shirt, wat ze tijdens de stream live op hun merch store zetten.",
+            "youtube_id": "M-gMvQWPVA8",
+            "titles": [
+                "Shirt design tekenen (exclusive)"
+            ],
+            "activities": [
+                {
+                    "title": "Art",
+                    "duration": 7980
+                }
+            ],
+            "twitchtracker_id": "2180501473",
+            "twitch_id": "692576772",
+            "tags": [
+                "main",
+                "tekenen",
+                "merch",
+                "pokemon",
+                "t-shirt"
+            ],
+            "time_start": "20:31:00",
+            "time_end": "22:45:00"
         },
         {
             "id": "123c",
@@ -48118,30 +48118,30 @@
             ]
         },
         {
-          "id": "8668",
-          "type": "stream",
-          "date": "2021-07-21",
-          "duration": 7800,
-          "description": "Peter en Timon doen een tekenspel waarbij ze steeds een deel van een pagina afdekken en zo “blind” samen een tekening maken. Ze maken behoorlijk wat misbaksels maar de sfeer is erg chill en kunstzinnig. Weinig geruzie.",
-          "youtube_id": "5o06iSkoMPE",
-          "titles": [
-            "Wie kan het beste BLIND TEKENEN?"
-          ],
-          "activities": [
-            {
-              "title": "Art",
-              "duration": 7800
-            }
-          ],
-          "twitchtracker_id": "42709391420",
-          "twitch_id": "1093928375",
-          "tags": [
-            "main",
-            "tekenen",
-            "coop"
-          ],
-          "time_start": "20:24:00",
-          "time_end": "22:35:00"
+            "id": "8668",
+            "type": "stream",
+            "date": "2021-07-21",
+            "duration": 7800,
+            "description": "Peter en Timon doen een tekenspel waarbij ze steeds een deel van een pagina afdekken en zo “blind” samen een tekening maken. Ze maken behoorlijk wat misbaksels maar de sfeer is erg chill en kunstzinnig. Weinig geruzie.",
+            "youtube_id": "5o06iSkoMPE",
+            "titles": [
+                "Wie kan het beste BLIND TEKENEN?"
+            ],
+            "activities": [
+                {
+                    "title": "Art",
+                    "duration": 7800
+                }
+            ],
+            "twitchtracker_id": "42709391420",
+            "twitch_id": "1093928375",
+            "tags": [
+                "main",
+                "tekenen",
+                "coop"
+            ],
+            "time_start": "20:24:00",
+            "time_end": "22:35:00"
         },
         {
             "id": "6d89",
@@ -50827,7 +50827,7 @@
             "time_start": "20:23:00",
             "time_end": "22:35:00"
         },
-                {
+        {
             "id": "eh38",
             "type": "stream",
             "date": "2022-02-16",
@@ -54998,35 +54998,35 @@
             "activity": "Drawing From Memory"
         },
         {
-          "id": "8e8f",
-          "type": "stream",
-          "date": "2023-02-13",
-          "description": "Peter en Timon spelen Drawing From Memory met EgbertLive en Cas van de Pol. De sfeer is chill en vrolijk, en er wordt een gemiddelde hoeveelheid boezems getekend.",
-          "duration": 6540,
-          "youtube_id": "ZtL78iN_coE",
-          "collection": [
-            56
-          ],
-          "titles": [
-            "Tekenen met de boys ✏️🧠💭"
-          ],
-          "activities": [
-            {
-              "title": "Drawing From Memory",
-              "duration": 6540
-            }
-          ],
-          "twitchtracker_id": "40472921400",
-          "twitch_id": "1737375690",
-          "tags": [
-            "main",
-            "tekenen",
-            "tekenwedstrijd",
-            "egbertlive",
-            "cas van der pol"
-          ],
-          "time_start": "20:35:00",
-          "time_end": "22:25:00"
+            "id": "8e8f",
+            "type": "stream",
+            "date": "2023-02-13",
+            "description": "Peter en Timon spelen Drawing From Memory met EgbertLive en Cas van de Pol. De sfeer is chill en vrolijk, en er wordt een gemiddelde hoeveelheid boezems getekend.",
+            "duration": 6540,
+            "youtube_id": "ZtL78iN_coE",
+            "collection": [
+                56
+            ],
+            "titles": [
+                "Tekenen met de boys ✏️🧠💭"
+            ],
+            "activities": [
+                {
+                    "title": "Drawing From Memory",
+                    "duration": 6540
+                }
+            ],
+            "twitchtracker_id": "40472921400",
+            "twitch_id": "1737375690",
+            "tags": [
+                "main",
+                "tekenen",
+                "tekenwedstrijd",
+                "egbertlive",
+                "cas van der pol"
+            ],
+            "time_start": "20:35:00",
+            "time_end": "22:25:00"
         },
         {
             "id": "11ee",
@@ -59645,7 +59645,7 @@
                     "title": "Stretcher Men",
                     "duration": 1
                 },
-                 {
+                {
                     "title": "Wild Animal Hunt",
                     "duration": 1
                 }
@@ -60891,7 +60891,6 @@
             "time_start": "16:48:56",
             "time_end": "18:16:21",
             "titles": [
-               
                 "CROC - live om half 5"
             ],
             "activities": [
@@ -60910,7 +60909,6 @@
             "time_start": "16:48:56",
             "time_end": "18:16:21",
             "titles": [
-               
                 "CROC - live om half 5"
             ],
             "activities": [
@@ -60929,7 +60927,6 @@
             "time_start": "16:48:56",
             "time_end": "18:16:21",
             "titles": [
-               
                 "Playstation: State of Play (live reacties)"
             ],
             "activities": [
@@ -60948,7 +60945,6 @@
             "time_start": "16:48:56",
             "time_end": "18:16:21",
             "titles": [
-               
                 "We hebben die SWITCH 2 te pakken"
             ],
             "activities": [
@@ -60967,7 +60963,6 @@
             "time_start": "16:48:56",
             "time_end": "18:16:21",
             "titles": [
-               
                 "SUMMER GAME FEST 2025 (live reacties)"
             ],
             "activities": [
@@ -60986,7 +60981,6 @@
             "time_start": "16:48:56",
             "time_end": "18:16:21",
             "titles": [
-               
                 "XBOX SHOWCASE 2025 (live reacties)"
             ],
             "activities": [
@@ -61005,7 +60999,6 @@
             "time_start": "16:48:56",
             "time_end": "18:16:21",
             "titles": [
-               
                 "potje tot we winnen"
             ],
             "activities": [
@@ -61019,12 +61012,11 @@
             "id": "8ee9",
             "type": "stream"
         },
-           {
+        {
             "date": "2025-07-25",
             "time_start": "16:30:56",
             "time_end": "18:00:21",
             "titles": [
-               
                 "donkey kong bananza"
             ],
             "activities": [
@@ -61052,12 +61044,11 @@
                 }
             ]
         },
-           {
+        {
             "date": "2025-09-12",
             "time_start": "16:30:56",
             "time_end": "18:00:21",
             "titles": [
-               
                 "Nintendo Direct: Live Reacties!"
             ],
             "activities": [
@@ -61071,7 +61062,7 @@
             "id": "d93n",
             "type": "stream"
         },
-          {
+        {
             "id": "fhw2",
             "type": "video",
             "date": "2025-10-31",
@@ -61083,22 +61074,21 @@
                     "title": "Sharks and Minnows",
                     "duration": 1
                 },
-                  {
+                {
                     "title": "Reanimal",
                     "duration": 1
                 },
-                  {
+                {
                     "title": "The Cabin Factory",
                     "duration": 1
                 }
             ]
         },
-           {
+        {
             "date": "2025-12-12",
             "time_start": "16:30:56",
             "time_end": "18:00:21",
             "titles": [
-               
                 "THE GAME AWARDS 2025 (live reacties)"
             ],
             "activities": [
@@ -61112,7 +61102,7 @@
             "id": "f923",
             "type": "stream"
         },
-          {
+        {
             "id": "e2rt",
             "type": "video",
             "date": "2026-01-13",
@@ -61124,11 +61114,11 @@
                     "title": "LEGO voyagers",
                     "duration": 1
                 },
-                  {
+                {
                     "title": "Unknown Tapes",
                     "duration": 1
                 },
-                  {
+                {
                     "title": "Kirby Air Riders",
                     "duration": 1
                 }
@@ -61158,7 +61148,7 @@
             "duration": 1900,
             "youtube_id": "oaRa9d8ULHA"
         },
-          {
+        {
             "id": "4gsf",
             "type": "stream",
             "date": "2026-02-23",
@@ -61170,37 +61160,37 @@
                     "title": "Spider Roulette",
                     "duration": 1
                 },
-                  {
+                {
                     "title": "PEAK",
                     "duration": 1
                 },
-                  {
+                {
                     "title": "Content Warning",
                     "duration": 1
                 },
-                  {
+                {
                     "title": "Baby Steps",
                     "duration": 1
                 },
-                  {
+                {
                     "title": "Mario Kart World",
                     "duration": 1
                 },
-                  {
+                {
                     "title": "Mario Party Jamboree",
                     "duration": 1
                 },
-                  {
+                {
                     "title": "Fall Guys",
                     "duration": 1
                 },
-                  {
+                {
                     "title": "Reanimal",
                     "duration": 1
                 }
             ]
         },
-          {
+        {
             "id": "vs33",
             "type": "video",
             "date": "2026-01-22",
@@ -61214,7 +61204,7 @@
                 }
             ]
         },
-          {
+        {
             "id": "svde",
             "type": "video",
             "date": "2026-02-12",
@@ -61236,7 +61226,7 @@
                 }
             ]
         },
-          {
+        {
             "id": "ffvw",
             "type": "video",
             "date": "2026-02-26",
@@ -61250,12 +61240,11 @@
                 }
             ]
         },
-           {
+        {
             "date": "2026-03-10",
             "time_start": "16:30:56",
             "time_end": "18:00:21",
             "titles": [
-               
                 "griezelen met die mannen"
             ],
             "activities": [
